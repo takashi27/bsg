@@ -1,0 +1,27 @@
+.inicio {
+    background-image: url('../../../assets/image.png');
+    background-size: cover;
+    background-position: left;
+    min-height: 100vh;
+    color: white;
+}
+
+.nosotros {
+    background-image: url('../../../assets/nosotros.png');
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+    color: white;
+}
+
+.nosotros p {
+    font-size: 1.3rem;
+}
+
+.contacto {
+    background-image: url('../../../assets/contacto.png');
+    background-size: cover;
+    background-position: left;
+    min-height: 100vh;
+    color: white;
+}
